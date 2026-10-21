@@ -78,6 +78,10 @@ report/
 └── figures/            # figures extracted from the paper
 ```
 
+---
+
+*Documentation and repository cleanup were done with AI assistance (Claude Code); the project code and results are the two authors' own.*
+
 ## 中文说明
 
 这是 BU DS 340 课程的双人期末项目，作者是 Jiahui Liang 和涂皓然，初版代码来自 [jiahui2284/MULTIVERSE-S](https://github.com/jiahui2284/MULTIVERSE-S)。
